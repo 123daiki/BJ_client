@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638552523319805984
-    m_Hash: 2349020075
+      ticks: 638552538201065290
+    m_Hash: 1616461635
   m_LockFileStatus:
     m_FilePath: C:/Users/izumi/Projects/BJ_client/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 638552523394763411
-    m_Hash: 815515474
+      ticks: 638552538201065290
+    m_Hash: 785664851
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
